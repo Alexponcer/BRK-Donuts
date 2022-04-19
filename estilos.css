@@ -305,3 +305,11 @@ align-content: center;
 .container{
     width: 100%;
 }
+
+.logosFooter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    
+}
